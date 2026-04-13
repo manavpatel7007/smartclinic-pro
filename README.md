@@ -1,1 +1,1 @@
-# smartclinic-pro
+# SmartClinic Project
